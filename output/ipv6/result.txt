@@ -1,23 +1,26 @@
 🕘️更新时间,#genre#
-2025-06-29 18:27:45,https://ldcctvwbcdks.v.kcdnvip.com/ldcctvwbcd/cdrmldcctv5plus_1/index.m3u8?b=200-2100
+2025-06-30 06:23:12,https://ldcctvwbcdks.v.kcdnvip.com/ldcctvwbcd/cdrmldcctv5plus_1/index.m3u8?b=200-2100
 
 📺央视频道,#genre#
 CCTV-5,https://ldcctvwbcdks.v.kcdnvip.com/ldcctvwbcd/cdrmldcctv5plus_1/index.m3u8?b=200-2100
 
 📡卫视频道,#genre#
+浙江卫视,https://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8?
 
 ☘️广东频道,#genre#
 
 ☘️浙江频道,#genre#
-浙江生活,https://ali-m-l.cztv.com/channels/lantian/channel003/1080p.m3u8\r\n
+浙江生活,https://ali-m-l.cztv.com/channels/lantian/channel003/1080p.m3u8?
+浙江教育,https://ali-m-l.cztv.com/channels/lantian/channel004/1080p.m3u8?
+浙江民生,https://ali-m-l.cztv.com/channels/lantian/channel006/1080p.m3u8?
+浙江新闻,https://ali-m-l.cztv.com/channels/lantian/channel007/1080p.m3u8?
+永嘉新闻综合,http://l.cztvcloud.com/channels/lantian/SXyongjia1/720p.m3u8?zzhed
+永嘉新闻综合,http://l.cztvcloud.com/channels/lantian/SXyongjia1/720p.m3u8?zzhed,
 庆元综合,http://l.cztvcloud.com/channels/lantian/SXqingyuan1/720p.m3u8?zzhed[浙江]洞头综合频道
+庆元综合,http://l.cztvcloud.com/channels/lantian/SXqingyuan1/720p.m3u8?zzhed
 庆元综合,http://l.cztvcloud.com/channels/lantian/SXqingyuan1/720p.m3u8?zzhed?
-余杭未来E,http://l.cztvcloud.com/channels/lantian/SXyuhang3/720p.m3u8?zzhed
-余姚综合,http://l.cztvcloud.com/channels/lantian/SXyuyao1/720p.m3u8?zzhed
 余姚综合,http://l.cztvcloud.com/channels/lantian/SXyuyao1/720p.m3u8?%E5%85%B3%E6%B3%A8%E5%BE%AE%E4%BF%A1%E5%85%AC%E4%BC%97%E5%8F%B7[%E6%99%B4%E5%9B%AD]
 上虞新商都,http://l.cztvcloud.com/channels/lantian/SXshangyu3/720p.m3u8?zzhed?
-
-☘️北京频道,#genre#
 
 ☘️上海频道,#genre#
 
@@ -32,7 +35,6 @@ CCTV-5,https://ldcctvwbcdks.v.kcdnvip.com/ldcctvwbcd/cdrmldcctv5plus_1/index.m3u
 ☘️四川频道,#genre#
 
 ☘️福建频道,#genre#
-福州生活,http://live.zohi.tv:80/video/s10001-fztv-3/index.m3u8
 
 ☘️河南频道,#genre#
 
