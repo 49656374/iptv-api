@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2025-07-03 18:27:36,http://l.cztvcloud.com/channels/lantian/SXqingyuan1/720p.m3u8?zzhed?
+2025-07-04 06:24:26,http://l.cztvcloud.com/channels/lantian/SXqingyuan1/720p.m3u8?zzhed?
 
 📺央视频道,#genre#
 
@@ -21,10 +21,11 @@
 
 ☘️广西频道,#genre#
 
+☘️天津频道,#genre#
+
 ☘️四川频道,#genre#
 
 ☘️福建频道,#genre#
-福州生活,http://live.zohi.tv:80/video/s10001-fztv-3/index.m3u8
 
 ☘️河南频道,#genre#
 
