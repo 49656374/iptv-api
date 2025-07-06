@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2025-07-06 06:24:02,https://ldcctvwbcdks.v.kcdnvip.com/ldcctvwbcd/cdrmldcctv5plus_1/index.m3u8?b=200-2100
+2025-07-06 18:25:37,https://ldcctvwbcdks.v.kcdnvip.com/ldcctvwbcd/cdrmldcctv5plus_1/index.m3u8?b=200-2100
 
 📺央视频道,#genre#
 CCTV-5,https://ldcctvwbcdks.v.kcdnvip.com/ldcctvwbcd/cdrmldcctv5plus_1/index.m3u8?b=200-2100
@@ -23,8 +23,6 @@ CCTV-5,https://ldcctvwbcdks.v.kcdnvip.com/ldcctvwbcd/cdrmldcctv5plus_1/index.m3u
 ☘️广西频道,#genre#
 
 ☘️四川频道,#genre#
-
-☘️福建频道,#genre#
 
 ☘️河南频道,#genre#
 
