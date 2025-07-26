@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2025-07-26 18:27:03,http://l.cztvcloud.com/channels/lantian/SXqingyuan1/720p.m3u8?zzhed?
+2025-07-27 06:25:27,http://l.cztvcloud.com/channels/lantian/SXqingyuan1/720p.m3u8?zzhed?
 
 📺央视频道,#genre#
 
@@ -16,8 +16,6 @@
 ☘️重庆频道,#genre#
 
 ☘️江苏频道,#genre#
-
-☘️湖南频道,#genre#
 
 ☘️广西频道,#genre#
 
