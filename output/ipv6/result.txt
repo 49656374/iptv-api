@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2025-07-29 06:28:16,http://l.cztvcloud.com/channels/lantian/SXshangyu3/720p.m3u8?zzhed?
+2025-07-29 18:30:05,http://l.cztvcloud.com/channels/lantian/SXqingyuan1/720p.m3u8?zzhed?
 
 📺央视频道,#genre#
 
@@ -8,6 +8,7 @@
 ☘️广东频道,#genre#
 
 ☘️浙江频道,#genre#
+庆元综合,http://l.cztvcloud.com/channels/lantian/SXqingyuan1/720p.m3u8?zzhed?
 上虞新商都,http://l.cztvcloud.com/channels/lantian/SXshangyu3/720p.m3u8?zzhed?
 
 ☘️上海频道,#genre#
@@ -19,6 +20,8 @@
 ☘️广西频道,#genre#
 
 ☘️四川频道,#genre#
+
+☘️福建频道,#genre#
 
 ☘️河南频道,#genre#
 
