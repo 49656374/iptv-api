@@ -1,10 +1,9 @@
 🕘️更新时间,#genre#
-2025-08-16 06:25:53,https://migu.188766.xyz/?migutoken=6818dd0cb7452ab9cba884dc087f5f3e&id=CCTV6&pp=1
+2025-08-16 18:24:38,https://migu.188766.xyz/?migutoken=6818dd0cb7452ab9cba884dc087f5f3e&id=CCTV6&pp=1
 
 📺央视频道,#genre#
 CCTV-6,https://migu.188766.xyz/?migutoken=6818dd0cb7452ab9cba884dc087f5f3e&id=CCTV6&pp=1
 CCTV-16,https://migu.188766.xyz/?migutoken=eda82b340e2efaedc007fddfaf1c7c28&id=CCTV16&pp=1
-CETV4,https://mursor.ottiptv.cc/migu/923287339.m3u8?migutoken=165b545b4402eaba61cdc31defb6548a443d9b5eebb1d99392852bd799c553e8817e85eb324c512581ca9a1ed8e56e530144f79606cf44fe5b2d5e97b6da577e0f2adae2a90c2a55089c95880b
 
 📡卫视频道,#genre#
 江西卫视,https://migu.188766.xyz/?migutoken=ec5db662362dfc44c29d19ebabd3b6f7&id=%E6%B1%9F%E8%A5%BF%E5%8D%AB%E8%A7%86&pp=1
@@ -14,8 +13,6 @@ CETV4,https://mursor.ottiptv.cc/migu/923287339.m3u8?migutoken=165b545b4402eaba61
 ☘️浙江频道,#genre#
 庆元综合,http://l.cztvcloud.com/channels/lantian/SXqingyuan1/720p.m3u8?zzhed?
 上虞新商都,http://l.cztvcloud.com/channels/lantian/SXshangyu3/720p.m3u8?zzhed?
-
-☘️北京频道,#genre#
 
 ☘️上海频道,#genre#
 
@@ -37,11 +34,7 @@ CETV4,https://mursor.ottiptv.cc/migu/923287339.m3u8?migutoken=165b545b4402eaba61
 
 ☘️安徽频道,#genre#
 
-☘️吉林频道,#genre#
-
 ☘️青海频道,#genre#
-
-☘️黑龙江频道,#genre#
 
 🌊港·澳·台,#genre#
 
@@ -50,5 +43,3 @@ CETV4,https://mursor.ottiptv.cc/migu/923287339.m3u8?migutoken=165b545b4402eaba61
 🏀体育频道,#genre#
 
 🪁动画频道,#genre#
-
-🎵音乐频道,#genre#
