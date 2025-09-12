@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2025-09-12 18:24:54,https://migu.188766.xyz/?migutoken=6818dd0cb7452ab9cba884dc087f5f3e&id=CCTV6&pp=1
+2025-09-13 06:20:36,https://migu.188766.xyz/?migutoken=6818dd0cb7452ab9cba884dc087f5f3e&id=CCTV6&pp=1
 
 📺央视频道,#genre#
 CCTV-6,https://migu.188766.xyz/?migutoken=6818dd0cb7452ab9cba884dc087f5f3e&id=CCTV6&pp=1
@@ -26,6 +26,7 @@ CETV4,https://migu.188766.xyz/?migutoken=d5d19d868e1df41e984866fc7ca15071&id=CET
 ☘️江苏频道,#genre#
 南京教科,https://migu.188766.xyz/?migutoken=86098e6420f5a0e910566b8ddc67d470&id=%E5%8D%97%E4%BA%AC%E6%95%99%E7%A7%91%E9%A2%91%E9%81%93&type=yy
 南京新闻综合,https://migu.188766.xyz/?migutoken=80b94ba5264825a20bf0c9fbdc92b394&id=%E5%8D%97%E4%BA%AC%E6%96%B0%E9%97%BB%E7%BB%BC%E5%90%88%E9%A2%91%E9%81%93&type=yy
+南京新闻综合,https://migu.188766.xyz/?migutoken=dded42c9656aee80f87270572030de96&id=%E5%8D%97%E4%BA%AC%E6%96%B0%E9%97%BB%E7%BB%BC%E5%90%88%E9%A2%91%E9%81%93&type=yy
 江宁新闻,https://migu.188766.xyz/?migutoken=77969fb082a75b798578427f3570edd2&id=%E4%BD%93%E8%82%B2%E4%BC%91%E9%97%B2%E9%A2%91%E9%81%93&type=yy
 江苏影视,https://migu.188766.xyz/?migutoken=91756b74eb13850e4c87b15c25817e42&id=%E6%B1%9F%E8%8B%8F%E5%BD%B1%E8%A7%86%E9%A2%91%E9%81%93&type=yy
 江苏教育,https://migu.188766.xyz/?migutoken=bfd96895aa8e3e9aa47561510518c058&id=%E6%B1%9F%E8%8B%8F%E6%95%99%E8%82%B2&type=yy
