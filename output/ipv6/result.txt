@@ -1,11 +1,9 @@
 🕘️更新时间,#genre#
-2025-09-16 06:22:16,https://mursor.ottiptv.cc/mcp/fyjc.m3u8?sign=b2f39a8a6bde51405aca53e0ac0f10e9&tm=1757443317
+2025-09-16 18:24:46,http://l.cztvcloud.com/channels/lantian/SXshangyu3/720p.m3u8?zzhed?
 
 📺央视频道,#genre#
 
 💰央视付费频道,#genre#
-风云剧场,https://mursor.ottiptv.cc/mcp/fyjc.m3u8?sign=b2f39a8a6bde51405aca53e0ac0f10e9&tm=1757443317
-风云剧场,https://mursor.ottiptv.cc/mcp/fyjc.m3u8?sign=4504fb617281e8909e4259760d3b64d8&tm=1757535222
 
 📡卫视频道,#genre#
 
@@ -19,6 +17,8 @@
 ☘️广西频道,#genre#
 
 ☘️四川频道,#genre#
+
+☘️福建频道,#genre#
 
 ☘️河南频道,#genre#
 
