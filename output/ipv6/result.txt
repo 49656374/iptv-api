@@ -1,17 +1,23 @@
 🕘️更新时间,#genre#
-2025-09-25 18:26:42,url
+2025-09-26 06:21:39,https://other.ottiptv.cc/wxty.m3u8
 
 📺央视频道,#genre#
 
 📡卫视频道,#genre#
 
+☘️广东频道,#genre#
+
 ☘️浙江频道,#genre#
+
+☘️上海频道,#genre#
 
 ☘️重庆频道,#genre#
 
 ☘️江苏频道,#genre#
 
 ☘️广西频道,#genre#
+
+☘️天津频道,#genre#
 
 ☘️四川频道,#genre#
 
@@ -32,5 +38,8 @@
 🎬电影频道,#genre#
 
 🏀体育频道,#genre#
+五星体育,https://other.ottiptv.cc/wxty.m3u8
 
 🪁动画频道,#genre#
+
+🎵音乐频道,#genre#
