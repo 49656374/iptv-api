@@ -1,11 +1,9 @@
 🕘️更新时间,#genre#
-2025-09-30 18:26:31,https://other.ottiptv.cc/wxty.m3u8
+2025-10-01 06:22:11,https://other.ottiptv.cc/wxty.m3u8
 
 📺央视频道,#genre#
 
 📡卫视频道,#genre#
-
-☘️广东频道,#genre#
 
 ☘️浙江频道,#genre#
 
