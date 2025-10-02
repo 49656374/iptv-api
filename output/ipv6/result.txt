@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2025-10-02 18:23:24,https://other.ottiptv.cc/wxty.m3u8
+2025-10-03 06:21:51,https://100.061833.xyz/stream/mytv/null-1/stream.m3u8?uid=3291919010&u=rty789&p=29624e2e4c4ccee26ed8f3e0ca1012ea57a8f2191be6149f632250f7036119cc
 
 📺央视频道,#genre#
 
@@ -28,6 +28,7 @@
 🌊港·澳·台,#genre#
 
 🎬电影频道,#genre#
+天映经典,https://100.061833.xyz/stream/mytv/null-1/stream.m3u8?uid=3291919010&u=rty789&p=29624e2e4c4ccee26ed8f3e0ca1012ea57a8f2191be6149f632250f7036119cc
 
 🏀体育频道,#genre#
 五星体育,https://other.ottiptv.cc/wxty.m3u8
