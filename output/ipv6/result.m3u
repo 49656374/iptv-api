@@ -1,7 +1,5 @@
 #EXTM3U x-tvg-url="https://raw.githubusercontent.com/49656374/iptv-api/refs/heads/master/output/epg/epg.gz"
-#EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV1.png" group-title="🕘️更新时间",2025-10-03 06:21:51
-https://100.061833.xyz/stream/mytv/null-1/stream.m3u8?uid=3291919010&u=rty789&p=29624e2e4c4ccee26ed8f3e0ca1012ea57a8f2191be6149f632250f7036119cc
-#EXTINF:-1 tvg-name="天映经典" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/天映经典.png" group-title="🎬电影频道",天映经典
-https://100.061833.xyz/stream/mytv/null-1/stream.m3u8?uid=3291919010&u=rty789&p=29624e2e4c4ccee26ed8f3e0ca1012ea57a8f2191be6149f632250f7036119cc
+#EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV1.png" group-title="🕘️更新时间",2025-10-03 18:23:56
+https://other.ottiptv.cc/wxty.m3u8
 #EXTINF:-1 tvg-name="五星体育" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/五星体育.png" group-title="🏀体育频道",五星体育
 https://other.ottiptv.cc/wxty.m3u8
