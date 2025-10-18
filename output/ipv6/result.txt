@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2025-10-18 18:23:59,https://other.ottiptv.cc/wxty.m3u8
+2025-10-19 06:22:03,https://other.ottiptv.cc/wxty.m3u8
 
 📺央视频道,#genre#
 
@@ -24,6 +24,8 @@
 ☘️安徽频道,#genre#
 
 ☘️青海频道,#genre#
+
+☘️黑龙江频道,#genre#
 
 🌊港·澳·台,#genre#
 
