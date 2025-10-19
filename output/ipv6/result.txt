@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2025-10-19 06:22:03,https://other.ottiptv.cc/wxty.m3u8
+2025-10-19 18:23:53,url
 
 📺央视频道,#genre#
 
@@ -32,6 +32,5 @@
 🎬电影频道,#genre#
 
 🏀体育频道,#genre#
-五星体育,https://other.ottiptv.cc/wxty.m3u8
 
 🪁动画频道,#genre#
