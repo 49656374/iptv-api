@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2025-11-12 18:28:50,url
+2025-11-13 06:25:21,https://cdn6.101.qzz.io/163189/tvbxh
 
 📺央视频道,#genre#
 
@@ -28,7 +28,11 @@
 🌊港·澳·台,#genre#
 
 🎬电影频道,#genre#
+无线星河,https://cdn6.101.qzz.io/163189/tvbxh
 
 🏀体育频道,#genre#
 
 🪁动画频道,#genre#
+七龙珠,https://live.ottiptv.cc/huya/11601966
+
+🏛经典剧场,#genre#
