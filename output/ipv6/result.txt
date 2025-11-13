@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2025-11-13 06:25:21,https://cdn6.101.qzz.io/163189/tvbxh
+2025-11-13 18:29:01,https://cdn6.101.qzz.io/163189/tvbxh
 
 📺央视频道,#genre#
 
@@ -33,6 +33,4 @@
 🏀体育频道,#genre#
 
 🪁动画频道,#genre#
-七龙珠,https://live.ottiptv.cc/huya/11601966
-
-🏛经典剧场,#genre#
+中华小当家,https://live.ottiptv.cc/huya/11342413
