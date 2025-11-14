@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2025-11-14 18:27:58,https://cdn6.101.qzz.io/163189/tvbxh
+2025-11-15 06:23:46,https://live.chinacert.cftest5.cn/mg/?id=644368714
 
 📺央视频道,#genre#
 
@@ -28,6 +28,7 @@
 🌊港·澳·台,#genre#
 
 🎬电影频道,#genre#
+CHC动作电影,https://live.chinacert.cftest5.cn/mg/?id=644368714
 无线星河,https://cdn6.101.qzz.io/163189/tvbxh
 
 🏀体育频道,#genre#
