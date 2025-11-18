@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2025-11-18 06:23:41,https://live.chinacert.cftest5.cn/mg/?id=644368714
+2025-11-18 18:28:59,https://live.chinacert.cftest5.cn/mg/?id=644368714
 
 📺央视频道,#genre#
 
@@ -34,3 +34,5 @@ CHC动作电影,https://live.chinacert.cftest5.cn/mg/?id=644368714
 🏀体育频道,#genre#
 
 🪁动画频道,#genre#
+
+🏛经典剧场,#genre#
