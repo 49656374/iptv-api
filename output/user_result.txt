@@ -1,29 +1,35 @@
 🕘️更新时间,#genre#
-2025-12-09 18:31:07,https://60.191.56.186:8888/hls/15/index.m3u8
+2025-12-10 06:25:00,https://60.191.56.186:8888/hls/15/index.m3u8
 
 📺央视频道,#genre#
 CCTV-5+,https://60.191.56.186:8888/hls/15/index.m3u8
 CCTV-13,https://event.pull.hebtv.com/jishi/cp1.m3u8
+CCTV-13,https://60.191.56.186:8888/hls/13/index.m3u8
 CCTV-14,https://event.pull.hebtv.com/jishi/cp2.m3u8
 
 📡卫视频道,#genre#
+浙江卫视,http://sh.lnott.top:880/dx32.m3u8
+东方卫视,http://bp-resource-dfl.bestv.cn/155/3/video.m3u8
 广西卫视,https://hlscdn.liangtv.cn/live/de0f97348eb84f62aa6b7d8cf0430770/dd505d87880c478f901f38560ca4d4e6.m3u8
+天津卫视,http://sh.lnott.top:880/dx30.m3u8
 
 ☘️浙江频道,#genre#
 浙江青田,http://l.cztvcloud.com/channels/lantian/SXqingtian1/720p.m3u8
+浙江青田,http://l.cztvcloud.com/channels/lantian/SXqingtian1/720p.m3u8?zzhed
 浙江青田,http://l.cztvcloud.com/channels/lantian/SXqingtian1/720p.m3u8?zzhed?
-浙江遂昌,http://l.cztvcloud.com/channels/lantian/SXsuichang1/720p.m3u8?%E5%85%B3%E6%B3%A8%E5%BE%AE%E4%BF%A1%E5%85%AC%E4%BC%97%E5%8F%B7[%E6%99%B4%E5%9B%AD]
 诸暨新闻综合,http://l.cztvcloud.com/channels/lantian/SXzhuji3/720p.m3u8?zzhed
 龙泉新闻综合,http://l.cztvcloud.com/channels/lantian/SXlongquan1/720p.m3u8
-遂昌综合,http://l.cztvcloud.com/channels/lantian/SXsuichang1/720p.m3u8?zzhed
 衢江新闻综合,http://l.cztvcloud.com/channels/lantian/SXqujiang1/720p.m3u8?zzhed
 苍南新闻综合,http://l.cztvcloud.com/channels/lantian/SXcangnan1/720p.m3u8?zzhed
 永嘉新闻综合,http://l.cztvcloud.com/channels/lantian/SXyongjia1/720p.m3u8
+永嘉新闻综合,http://l.cztvcloud.com/channels/lantian/SXyongjia1/720p.m3u8?zzhed
 松阳综合,http://l.cztvcloud.com/channels/lantian/SXsongyang1/720p.m3u8?fbl=
 庆元综合,http://l.cztvcloud.com/channels/lantian/SXqingyuan1/720p.m3u8?zzhed
-庆元综合,http://l.cztvcloud.com/channels/lantian/SXqingyuan1/720p.m3u8?zzhed?
 
 ☘️上海频道,#genre#
+上海新闻综合,http://bp-livetytv.bestv.cn/ch/bestvxwzh.m3u8
+上海第一财经,http://bp-livetytv.bestv.cn/ch/bestvdycj.m3u8
+上海都市,http://bp-livetytv.bestv.cn/ch/bestvdspd.m3u8
 
 ☘️重庆频道,#genre#
 
@@ -36,11 +42,8 @@ CCTV-14,https://event.pull.hebtv.com/jishi/cp2.m3u8
 
 ☘️四川频道,#genre#
 名山综合,https://m3u8channel-bx.yunxya.com/nmip-media/channellive/channel104666/playlist.m3u8
-荥经综合,https://m3u8channel-yj.yunxya.com/nmip-media/channellive/channel101140/playlist.m3u8
 
 ☘️甘肃频道,#genre#
-白银综合,http://play.kankanlive.com/live/1720408089419110.m3u8
-白银综合,https://play.kankanlive.com/live/1720408089419110.m3u8
 
 ☘️新疆频道,#genre#
 
@@ -57,9 +60,8 @@ CCTV-14,https://event.pull.hebtv.com/jishi/cp2.m3u8
 纬来育乐,https://cdn.iptv8k.top/dl/jrys.php?id=289&time=20240926215313&ip=111.229.253.40
 Viutv,https://cdn.iptv8k.top/dl/jrys.php?id=78&time=20240926215313&ip=111.229.253.40
 三立新闻,https://cdn.iptv8k.top/dl/jrys.php?id=273&time=20240926215313&ip=111.229.253.40
-东森综合,https://cdn.iptv8k.top/dl/jrys.php?id=221&time=20240926215313&ip=111.229.253.40
-东森综合,https://cdn.iptv8k.top/dl/jrys.php?id=221&amp;time=20240926215313&amp;ip=111.229.253.40
 东森综合,https://cdn.iptv8k.top/dl/jrys.php?id=220&time=20240926215313&ip=111.229.253.40
+东森综合,https://cdn.iptv8k.top/dl/jrys.php?id=221&time=20240926215313&ip=111.229.253.40
 东森超视,https://cdn.iptv8k.top/dl/jrys.php?id=216&time=20240926215313&ip=111.229.253.40
 东森超视,https://cdn.iptv8k.top/dl/jrys.php?id=217&time=20240926215313&ip=111.229.253.40
 东森电影,https://cdn.iptv8k.top/dl/jrys.php?id=231&time=20240926215313&ip=111.229.253.40
@@ -74,6 +76,9 @@ Viutv,https://cdn.iptv8k.top/dl/jrys.php?id=78&time=20240926215313&ip=111.229.25
 东森洋片,https://cdn.iptv8k.top/dl/jrys.php?id=232&time=20240926215313&ip=111.229.253.40
 
 🏀体育频道,#genre#
+五星体育,http://bp-livetytv.bestv.cn/ch/bestvwxty.m3u8
 
 🪁动画频道,#genre#
 CN卡通,https://cdn.iptv8k.top/dl/jrys.php?id=364&time=20240926215313&ip=111.229.253.40
+
+🎵音乐频道,#genre#
