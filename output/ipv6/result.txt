@@ -1,7 +1,9 @@
 🕘️更新时间,#genre#
-2025-12-19 18:29:33,http://bp-livetytv.bestv.cn/ch/bestvxwzh.m3u8
+2025-12-20 06:25:43,http://bp-livetytv.bestv.cn/ch/bestvxwzh.m3u8
 
 📺央视频道,#genre#
+
+💰央视付费频道,#genre#
 
 📡卫视频道,#genre#
 
@@ -37,3 +39,5 @@
 五星体育,http://bp-livetytv.bestv.cn/ch/bestvwxty.m3u8
 
 🪁动画频道,#genre#
+
+🎵音乐频道,#genre#
