@@ -1,13 +1,11 @@
 🕘️更新时间,#genre#
-2026-01-01 06:26:43,https://cdn6.101.qzz.io/163189/tvbxh
+2026-01-01 18:28:24,https://cdn6.101.qzz.io/163189/tvbxh
 
 📺央视频道,#genre#
 
 📡卫视频道,#genre#
 
 ☘️浙江频道,#genre#
-
-☘️上海频道,#genre#
 
 ☘️重庆频道,#genre#
 
@@ -16,8 +14,6 @@
 ☘️广西频道,#genre#
 
 ☘️四川频道,#genre#
-
-☘️陕西频道,#genre#
 
 ☘️甘肃频道,#genre#
 
